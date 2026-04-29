@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Code Sapphire</title>
+    <meta name="description" content="Contact Code Sapphire. Address: 208, H Y Rodrigo Mw, Pamunugama, Alubomulla, Sri Lanka. Email: info@codesapphire.app">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="container nav-content">
+            <a href="index.html" class="logo">
+                <img src="logo.png" alt="Code Sapphire Logo" class="logo-img">
+                <span>Code Sapphire</span>
+            </a>
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="products.html">Products</a>
+                <a href="contact.html" class="active">Contact Us</a>
+                <a href="terms.html">Terms</a>
+                <a href="privacy.html">Privacy</a>
+            </nav>
+            <button class="menu-btn" aria-label="Toggle menu">☰</button>
+        </div>
+    </header>
+
+    <main class="page-container">
+        <div class="page-header reveal">
+            <h1>Get in <span class="highlight">Touch</span></h1>
+            <p>We'd love to hear from you. Reach out to discuss your next project.</p>
+        </div>
+
+        <section class="container contact-section reveal" style="--delay: 0.1s">
+            <div class="contact-info glass-panel glow-hover">
+                <h2>Contact Information</h2>
+                
+                <div class="info-item hover-scale">
+                    <div class="info-icon">📍</div>
+                    <div>
+                        <h3>Address</h3>
+                        <p>208, H Y Rodrigo Mw,<br>Pamunugama, Alubomulla,<br>Sri Lanka</p>
+                    </div>
+                </div>
+
+                <div class="info-item hover-scale">
+                    <div class="info-icon">✉️</div>
+                    <div>
+                        <h3>Email</h3>
+                        <p><a href="mailto:info@codesapphire.app">info@codesapphire.app</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <form class="contact-form glass-panel glow-hover" onsubmit="event.preventDefault(); alert('Message sent successfully!');">
+                <h2>Send a Message</h2>
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" required placeholder="Your Name">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" required placeholder="you@example.com">
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" rows="5" required placeholder="How can we help you?"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary submit-btn">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <div class="logo">
+                    <img src="logo.png" alt="Code Sapphire Logo" class="logo-img">
+                    <span>Code Sapphire</span>
+                </div>
+                <p>Building the digital future with precision and elegance.</p>
+            </div>
+            <div class="footer-links">
+                <div class="link-group">
+                    <h4>Company</h4>
+                    <a href="index.html">Home</a>
+                    <a href="products.html">Products</a>
+                    <a href="contact.html">Contact Us</a>
+                </div>
+                <div class="link-group">
+                    <h4>Legal</h4>
+                    <a href="terms.html">Terms & Conditions</a>
+                    <a href="privacy.html">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 Code Sapphire. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
