@@ -1,0 +1,49 @@
+Privacy Policy for SMS Master Bot
+Last Updated: May 28, 2026
+Code Sapphire ("we", "us", or "our") operates the SMS Master Bot mobile application (the "App"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of any information when you use our App.
+1. Information We Collect
+We do not collect any personal information from you.
+The App is designed to operate entirely on your local device. We do NOT collect, transmit, store, or share any of the following:
+
+Phone numbers or contact lists
+SMS content (sent or received messages)
+Any personal data
+Device identifiers for our own use
+Location data
+Any other user information
+
+All operations — including selecting contacts, composing messages, and scheduling SMS — happen locally on your device and never leave it to reach our servers.
+2. Permissions Requested
+The App may request the following permissions only for its core functionality:
+
+Contacts Permission: To allow you to easily browse and select recipients from your existing contact list. These contacts remain on your device and are never accessed, uploaded, or shared by us.
+SMS Permission: To enable the App to send messages you compose and schedule. We do not read your inbox, outgoing messages, or any SMS history.
+Notification & Alarm Permissions: To trigger scheduled messages at the correct time using background processing.
+
+We do not use these permissions for any purpose other than providing the App’s intended features.
+3. Third-Party Services (Advertising)
+
+The App is free and displays advertisements powered by third-party ad networks (such as Google AdMob or similar services).
+These third-party advertisers may collect certain anonymous technical information (e.g., device type, IP address, advertising ID, or general usage statistics) directly from your device to show relevant ads.
+Code Sapphire does not collect or control this data. Any data collection by ad providers is governed by their own privacy policies.
+We strongly recommend reviewing the privacy policies of the ad networks used in the App.
+
+4. Data Security
+Since we do not collect or transmit any of your personal data, contacts, or SMS content, there is no data held by Code Sapphire that could be breached. Your information remains as secure as your own device allows.
+5. Children’s Privacy
+The App is not intended for use by children under the age of 13. We do not knowingly target or collect information from children.
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the App and on our website. Your continued use of the App after such changes constitutes your acceptance of the revised policy.
+7. Your Responsibilities
+You are solely responsible for:
+
+The content of the messages you send
+Compliance with all applicable laws regarding SMS communication
+Maintaining the security of your own device
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+info@codesapphire.app
+
+By using SMS Master Bot, you confirm that you understand and agree to this Privacy Policy.
+This Privacy Policy is effective as of May 28, 2026.

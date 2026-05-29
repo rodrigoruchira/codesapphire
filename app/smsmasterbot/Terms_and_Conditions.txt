@@ -1,0 +1,65 @@
+Terms and Conditions for SMS Master Bot
+Last Updated: May 28, 2026
+1. Acceptance of Terms
+By downloading, installing, accessing, or using the SMS Master Bot application ("the App"), provided by Code Sapphire ("we", "us", "our", or "Company"), you acknowledge that you have read, understood, and agree to be legally bound by these Terms and Conditions.
+Your use of the App constitutes your explicit acceptance of these Terms. If you do not agree with any part of these Terms, you must immediately uninstall the App and cease all use.
+2. SMS Charges and Billing
+2.1. The App uses your device's native SMS functionality to send messages. You are solely responsible for all SMS, carrier, and network charges incurred while using the App.
+2.2. Standard messaging rates, international fees, data charges, and any overage penalties set by your mobile network provider will apply.
+2.3. Code Sapphire does not charge any fee for sending SMS through the App. However, no refunds, reimbursements, or credits will be provided for any carrier charges, SMS fees, or penalties resulting from your use of the App.
+2.4. We strongly recommend using an unlimited SMS plan before using bulk or scheduled messaging features.
+3. User Responsibilities and Acceptable Use
+3.1. You are 100% solely responsible for all content you create, schedule, and send through the App, as well as the recipients (phone numbers) you choose to contact.
+3.2. The App is designed solely to help users send multiple SMS messages efficiently. It is not intended for harassment, bullying, spamming, phishing, fraud, or any harmful purpose.
+3.3. Prohibited Activities: You agree not to use the App for:
+
+Sending spam, unsolicited bulk messages, or promotional content without proper consent
+Harassing, threatening, bullying, or harming any third party
+Phishing, scamming, or any fraudulent activity
+Any purpose that violates applicable laws or regulations
+Impersonating others or sending misleading information
+
+3.4. Code Sapphire bears no responsibility whatsoever if you use the App to bully, harass, or harm any third person. Any such misuse is entirely your own legal and moral responsibility.
+4. Disclaimer of Liability and No Warranty
+4.1. The App is provided "as is" and "as available" without any warranties of any kind.
+4.2. Code Sapphire is not responsible for:
+
+Any damage to your device (hardware or software) caused by the App
+Any loss of data, battery drain, or performance issues
+Any SMS delivery failures or delays by your carrier
+Any illegal activity conducted by you using the App
+Any claims, damages, or liabilities arising from your use of the App
+
+4.3. You agree to indemnify and hold Code Sapphire, its developers, officers, employees, and affiliates harmless from any claims, losses, or damages resulting from your use or misuse of the App.
+5. Intellectual Property and Restrictions
+5.1. You agree not to reverse engineer, decompile, disassemble, modify, copy, distribute, or create derivative works of the App.
+5.2. Any attempt to do so is strictly prohibited and may result in immediate termination of your access and potential legal action.
+6. Privacy and Data Collection
+6.1. Code Sapphire does not collect, store, or share any personal information, contact lists, SMS content, or phone numbers from users.
+6.2. All data remains on your device.
+7. Advertising
+7.1. The App is free to use and is supported by advertisements.
+7.2. Code Sapphire earns revenue solely by providing advertising space within the App.
+7.3. Advertisements are served by third-party ad providers and may be based on your activity within the App.
+7.4. Code Sapphire is not responsible for the content of any advertisements displayed. Any interaction with ads is solely at your discretion and risk.
+7.5. Advertising partners and ad content may change at any time at the sole discretion of Code Sapphire.
+8. Termination and App Availability
+8.1. We reserve the right to suspend, discontinue, or remove the App from any app store at any time, without prior notice and without any liability to you.
+8.2. No compensation, refunds, or penalties will be provided in case the App is removed or discontinued.
+8.3. We may also terminate or suspend your access to the App if you violate these Terms.
+9. Changes to Terms
+We may update these Terms and Conditions from time to time. Your continued use of the App after any changes constitutes your acceptance of the revised Terms. We encourage you to review the Terms periodically.
+10. Governing Law
+These Terms shall be governed by the laws of the applicable jurisdiction where Code Sapphire operates, without regard to conflict of laws principles.
+
+By using SMS Master Bot, you explicitly acknowledge and agree that:
+
+All responsibility for usage lies with you.
+Code Sapphire is not liable for any illegal activity, device damage, data loss, or third-party claims.
+You will use the App responsibly and only for lawful purposes.
+You will not reverse engineer the App.
+
+If you have any questions regarding these Terms, please contact us at:
+info@codesapphire.app or visit codesapphire.app
+
+Code Sapphire reserves all rights not explicitly granted herein.
